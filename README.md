@@ -52,7 +52,7 @@ To make sure the numbers shown on the final Excel dashboard are correct and trus
 <img width="982" height="101" alt="image" src="https://github.com/user-attachments/assets/b070d346-176d-487f-9682-1a99c42808fa" />\
 <img width="273" height="406" alt="image" src="https://github.com/user-attachments/assets/503a21cb-e4d2-46d1-b432-df0394ecf4eb" />
 
-#Sales Breakdown Queries
+# Sales Breakdown Queries
 
 **% of Sales by Pizza Category**
 
@@ -70,7 +70,7 @@ To make sure the numbers shown on the final Excel dashboard are correct and trus
 <img width="675" height="116" alt="image" src="https://github.com/user-attachments/assets/23fa96f2-f060-4aa0-b986-7ac514e0b173" />\
 <img width="273" height="176" alt="image" src="https://github.com/user-attachments/assets/f9659158-f711-428b-aef2-5057193a1058" />
 
-**Best & Worst Sellers Queries**
+# Best & Worst Sellers Queries
 
 **Top 5 Best Sellers by Total Pizzas Sold**
 
